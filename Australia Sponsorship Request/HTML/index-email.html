@@ -17,8 +17,8 @@
     a[x-apple-data-detectors]{color:inherit!important;text-decoration:none!important;font:inherit!important;line-height:inherit!important}
     div[style*="margin: 16px 0;"]{margin:0!important}
     @media all and (max-width:639px){
-      .wrapper{width:100%!important}
-      .container{width:100%!important;min-width:100%!important}
+      .wrapper{width:100%!important;max-width:100%!important}
+      .container{width:100%!important;max-width:100%!important;min-width:0!important}
       .row{padding-left:20px!important;padding-right:20px!important}
       .col{display:block!important;float:none!important;width:100%!important;max-width:100%!important}
       .col-gap{display:block!important;width:100%!important;height:20px!important}
@@ -26,8 +26,9 @@
       .hero-action{display:block!important;width:100%!important;box-sizing:border-box!important;text-align:center!important}
       .hero-spacer{display:none!important;width:0!important;height:0!important;}
       .logo{width:116px!important;max-width:116px!important}
-      .hero-title{font-size:40px!important;line-height:1.04!important}
+      .hero-title{font-size:36px!important;line-height:1.04!important}
       .mobile-button{display:block!important;text-align:center!important}
+      .university{text-align:left!important;padding-top:10px!important}
     }
     @media (prefers-color-scheme:dark){
       .page-bg{background:#11161b!important}
@@ -47,7 +48,7 @@
       <table role="presentation" class="wrapper" width="100%" align="center" cellpadding="0" cellspacing="0" border="0" style="width:100%;max-width:760px;background:#ffffff;">
 
         <!-- HEADER MODULE: team identity and university -->
-        <tr><td class="container surface" bgcolor="#1a2128" style="width:760px;min-width:760px;background:#1a2128;border-bottom:3px solid #f47d32;padding:14px 20px;">
+        <tr><td class="container surface" width="100%" bgcolor="#1a2128" style="width:100%;background:#1a2128;border-bottom:3px solid #f47d32;padding:14px 20px;">
           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
             <td class="col" width="72%" valign="middle" style="width:72%;">
               <table role="presentation" cellpadding="0" cellspacing="0" border="0"><tr>
@@ -67,7 +68,7 @@
         </td></tr>
 
         <!-- HERO MODULE: text and team photo side by side on desktop, stacked on mobile -->
-        <tr><td class="container" width="760" bgcolor="#111b25" style="width:760px;min-width:760px;background:#111b25;border-radius:18px;overflow:hidden;">
+        <tr><td class="container" width="100%" bgcolor="#111b25" style="width:100%;background:#111b25;border-radius:18px;overflow:hidden;">
           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
             <td class="col row" width="50%" valign="middle" style="width:50%;padding:48px 18px 48px 44px;font-family:Helvetica,Arial,sans-serif;color:#ffffff;">
               <p style="margin:0 0 16px;color:#ffc09a;font-size:12px;line-height:18px;font-weight:bold;letter-spacing:2px;text-transform:uppercase;">TUCN Racing Team · România</p>
@@ -86,7 +87,7 @@
         </td></tr>
 
         <!-- ABOUT MODULE: copy and photo pair on desktop, stacked on mobile -->
-        <tr><td class="container surface" bgcolor="#ffffff" style="width:760px;min-width:760px;background:#ffffff;padding-top:42px;padding-bottom:32px;">
+        <tr><td class="container surface" width="100%" bgcolor="#ffffff" style="width:100%;background:#ffffff;padding-top:42px;padding-bottom:32px;">
           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
             <td class="col row" width="47%" valign="middle" style="width:47%;padding:0 12px 0 38px;font-family:Helvetica,Arial,sans-serif;">
               <p class="light-accent" style="margin:0 0 10px;color:#c3263d;font-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-transform:uppercase;">De la Cluj-Napoca la Australia</p>
@@ -103,7 +104,7 @@
         </td></tr>
 
         <!-- PARTNERSHIP MODULE: three equal desktop cells; stacked on mobile -->
-        <tr><td class="container surface" bgcolor="#ffffff" style="width:760px;min-width:760px;background:#ffffff;padding:18px 0 34px;">
+        <tr><td class="container surface" width="100%" bgcolor="#ffffff" style="width:100%;background:#ffffff;padding:18px 0 34px;">
           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td class="row" style="padding:0 38px 18px;font-family:Helvetica,Arial,sans-serif;">
             <p class="light-accent" style="margin:0 0 8px;color:#c3263d;font-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-transform:uppercase;">De ce parteneriat</p>
             <h2 class="ink" style="margin:0;color:#161b20;font-size:29px;line-height:1.15;letter-spacing:-.5px;font-weight:bold;">Ajutați o echipă de studenți să ajungă la linia de start</h2>
@@ -122,7 +123,7 @@
         </td></tr>
 
         <!-- CLOSING MODULE: closing copy and actions -->
-        <tr><td class="container surface" bgcolor="#ffffff" style="width:760px;min-width:760px;background:#ffffff;padding:0 0 34px;">
+        <tr><td class="container surface" width="100%" bgcolor="#ffffff" style="width:100%;background:#ffffff;padding:0 0 34px;">
           <table role="presentation" class="closing-box" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #d8dde1;border-radius:12px;background:#ffffff;"><tr>
             <td class="col row" width="68%" valign="middle" style="width:68%;padding:28px 14px 28px 28px;font-family:Helvetica,Arial,sans-serif;">
               <p class="light-accent" style="margin:0 0 8px;color:#c3263d;font-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-transform:uppercase;">Următorul pas</p>
@@ -139,7 +140,7 @@
         </td></tr>
 
         <!-- FOOTER MODULE -->
-        <tr><td class="container" bgcolor="#11161b" style="width:760px;min-width:760px;background:#11161b;padding:20px 30px;color:#b0bac4;font-family:Helvetica,Arial,sans-serif;font-size:12px;line-height:1.6;">
+        <tr><td class="container" width="100%" bgcolor="#11161b" style="width:100%;background:#11161b;padding:20px 30px;color:#b0bac4;font-family:Helvetica,Arial,sans-serif;font-size:12px;line-height:1.6;">
           <strong style="color:#f2f4f6;">TUCN Racing Team</strong> · Universitatea Tehnică din Cluj-Napoca<br>
           <a href="mailto:utcn.src@gmail.com" style="color:#ff9b5c;">utcn.src@gmail.com</a> &nbsp;·&nbsp;
           <a href="https://www.instagram.com/tucn_racingteam" style="color:#ff9b5c;">Instagram</a>
