@@ -3,21 +3,21 @@ From: TUCN Racing Team <utcn.src@gmail.com>
 To: utcn.src@gmail.com
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
- boundary="===============9223149872089169684=="
+ boundary="===============6974274069982344729=="
 
---===============9223149872089169684==
+--===============6974274069982344729==
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
 TUCN Racing Team =E2=80=94 versiunea HTML a mesajului este disponibil=C4=83 =
 =C3=AEn acest email.
 
---===============9223149872089169684==
+--===============6974274069982344729==
 MIME-Version: 1.0
 Content-Type: multipart/related;
- boundary="===============4623576145548633137=="
+ boundary="===============3545349058435409744=="
 
---===============4623576145548633137==
+--===============3545349058435409744==
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -163,144 +163,115 @@ chipa TUCN Racing Team =C8=99i vehicule solare la IESC 2026" style=3D"display=
           </table>
         </td></tr>
 
-        <!-- ABOUT MODULE: copy and photo pair on desktop, stacked on mobile =
--->
+        <!-- ABOUT MODULE: single-column rows for reliable mobile rendering -=
+->
         <tr><td class=3D"container surface" width=3D"100%" bgcolor=3D"#ffffff=
-" style=3D"width:100%;background:#ffffff;padding-top:42px;padding-bottom:32px=
-;">
-          <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
-pacing=3D"0" border=3D"0"><tr>
-            <td class=3D"col row" width=3D"47%" valign=3D"middle" style=3D"wi=
-dth:47%;padding:0 12px 0 38px;font-family:Helvetica,Arial,sans-serif;">
-              <p class=3D"light-accent" style=3D"margin:0 0 10px;color:#c3263=
-d;font-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-=
-transform:uppercase;">De la Cluj-Napoca la Australia</p>
-              <h2 class=3D"ink" style=3D"margin:0;color:#161b20;font-size:28p=
-x;line-height:1.14;letter-spacing:-.5px;font-weight:bold;">Un proiect univers=
-itar preg=C4=83tit pentru o competi=C8=9Bie interna=C8=9Bional=C4=83</h2>
-              <p class=3D"muted" style=3D"margin:14px 0 0;color:#58636e;font-=
-size:14px;line-height:1.65;">Suntem studen=C8=9Bi ai Universit=C4=83=C8=9Bii =
-Tehnice din Cluj-Napoca. Proiect=C4=83m, construim =C8=99i test=C4=83m vehicu=
-le solare, iar participarea la IESC 2026 ne-a adus =C3=AEmpreun=C4=83 cu echi=
-pe din =C3=AEntreaga lume.</p>
-              <p class=3D"muted" style=3D"margin:10px 0 0;color:#58636e;font-=
-size:14px;line-height:1.65;">Acum lucr=C4=83m s=C4=83 facem posibil urm=C4=83=
-torul pas: s=C4=83 reprezent=C4=83m universitatea =C8=99i Rom=C3=A2nia =C3=AE=
-n Australia. Sprijinul partenerilor ne ajut=C4=83 s=C4=83 transform=C4=83m ac=
-est plan =C3=AEntr-o deplasare real=C4=83.</p>
-            </td>
-            <td class=3D"col-gap" width=3D"24" style=3D"width:24px;font-size:=
-0;line-height:20px;">&nbsp;</td>
-            <td class=3D"col row" width=3D"49%" valign=3D"middle" style=3D"wi=
-dth:49%;padding:0 38px 0 12px;">
-              <img class=3D"img" src=3D"cid:iesc-2026-workshop" width=3D"330"=
- alt=3D"Membrii echipei preg=C4=83tesc vehiculul solar la IESC 2026" style=3D=
-"display:block;width:330px;max-width:100%;height:auto;border:1px solid #d8dde=
-1;border-radius:12px;">
-              <p class=3D"muted" style=3D"margin:8px 0 0;color:#58636e;font-f=
-amily:Helvetica,Arial,sans-serif;font-size:12px;line-height:1.5;">Lucru de ec=
-hip=C4=83 =C8=99i preg=C4=83tirea vehiculului la IESC 2026.</p>
-            </td>
-          </tr></table>
+" style=3D"width:100%;background:#ffffff;padding:42px 38px 32px;font-family:H=
+elvetica,Arial,sans-serif;">
+          <p class=3D"light-accent" style=3D"margin:0 0 10px;color:#c3263d;fo=
+nt-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-tran=
+sform:uppercase;">De la Cluj-Napoca la Australia</p>
+          <h2 class=3D"ink" style=3D"margin:0;color:#161b20;font-size:28px;li=
+ne-height:1.14;letter-spacing:-.5px;font-weight:bold;">Un proiect universitar=
+ preg=C4=83tit pentru o competi=C8=9Bie interna=C8=9Bional=C4=83</h2>
+          <p class=3D"muted" style=3D"margin:14px 0 0;color:#58636e;font-size=
+:14px;line-height:1.65;">Suntem studen=C8=9Bi ai Universit=C4=83=C8=9Bii Tehn=
+ice din Cluj-Napoca. Proiect=C4=83m, construim =C8=99i test=C4=83m vehicule s=
+olare, iar participarea la IESC 2026 ne-a adus =C3=AEmpreun=C4=83 cu echipe d=
+in =C3=AEntreaga lume.</p>
+          <p class=3D"muted" style=3D"margin:10px 0 0;color:#58636e;font-size=
+:14px;line-height:1.65;">Acum lucr=C4=83m s=C4=83 facem posibil urm=C4=83toru=
+l pas: s=C4=83 reprezent=C4=83m universitatea =C8=99i Rom=C3=A2nia =C3=AEn Au=
+stralia. Sprijinul partenerilor ne ajut=C4=83 s=C4=83 transform=C4=83m acest =
+plan =C3=AEntr-o deplasare real=C4=83.</p>
+          <img class=3D"img" src=3D"cid:iesc-2026-workshop" width=3D"684" alt=
+=3D"Membrii echipei preg=C4=83tesc vehiculul solar la IESC 2026" style=3D"dis=
+play:block;width:100%;max-width:684px;height:auto;margin:24px auto 0;border:1=
+px solid #d8dde1;border-radius:12px;">
+          <p class=3D"muted" style=3D"margin:8px 0 0;color:#58636e;font-size:=
+12px;line-height:1.5;">Lucru de echip=C4=83 =C8=99i preg=C4=83tirea vehiculul=
+ui la IESC 2026.</p>
         </td></tr>
 
-        <!-- PARTNERSHIP MODULE: three equal desktop cells; stacked on mobile=
- -->
+        <!-- PARTNERSHIP MODULE: one card per row for reliable mobile renderi=
+ng -->
         <tr><td class=3D"container surface" width=3D"100%" bgcolor=3D"#ffffff=
-" style=3D"width:100%;background:#ffffff;padding:18px 0 34px;">
-          <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
-pacing=3D"0" border=3D"0"><tr><td class=3D"row" style=3D"padding:0 38px 18px;=
-font-family:Helvetica,Arial,sans-serif;">
-            <p class=3D"light-accent" style=3D"margin:0 0 8px;color:#c3263d;f=
-ont-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-tra=
-nsform:uppercase;">De ce parteneriat</p>
-            <h2 class=3D"ink" style=3D"margin:0;color:#161b20;font-size:29px;=
-line-height:1.15;letter-spacing:-.5px;font-weight:bold;">Ajuta=C8=9Bi o echip=
+" style=3D"width:100%;background:#ffffff;padding:18px 38px 34px;font-family:H=
+elvetica,Arial,sans-serif;">
+          <p class=3D"light-accent" style=3D"margin:0 0 8px;color:#c3263d;fon=
+t-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-trans=
+form:uppercase;">De ce parteneriat</p>
+          <h2 class=3D"ink" style=3D"margin:0;color:#161b20;font-size:29px;li=
+ne-height:1.15;letter-spacing:-.5px;font-weight:bold;">Ajuta=C8=9Bi o echip=
 =C4=83 de studen=C8=9Bi s=C4=83 ajung=C4=83 la linia de start</h2>
-          </td></tr></table>
-          <table role=3D"presentation" class=3D"three-columns-layout" width=
-=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>
-            <td class=3D"col row" width=3D"33.33%" valign=3D"top" style=3D"wi=
-dth:33.33%;padding:8px 8px 8px 24px;"><table role=3D"presentation" width=3D"1=
-00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td class=3D"line" =
-style=3D"border:1px solid #d8dde1;border-radius:10px;padding:20px 16px;font-f=
-amily:Helvetica,Arial,sans-serif;">
-              <p style=3D"margin:0;color:#c3263d;font-size:10px;line-height:1=
-5px;font-weight:bold;letter-spacing:1px;">01 / DEPLASARE</p><h3 class=3D"ink"=
- style=3D"margin:10px 0 7px;color:#161b20;font-size:17px;line-height:1.25;fon=
-t-weight:bold;">Sus=C8=9Bine=C8=9Bi drumul spre Australia</h3><p class=3D"mut=
-ed" style=3D"margin:0;color:#58636e;font-size:13px;line-height:1.5;">Contribu=
+          <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"margin-top:18px;"><tr><td class=3D"line" s=
+tyle=3D"border:1px solid #d8dde1;border-radius:10px;padding:20px 16px;">
+            <p style=3D"margin:0;color:#c3263d;font-size:10px;line-height:15p=
+x;font-weight:bold;letter-spacing:1px;">01 / DEPLASARE</p><h3 class=3D"ink" s=
+tyle=3D"margin:10px 0 7px;color:#161b20;font-size:17px;line-height:1.25;font-=
+weight:bold;">Sus=C8=9Bine=C8=9Bi drumul spre Australia</h3><p class=3D"muted=
+" style=3D"margin:0;color:#58636e;font-size:13px;line-height:1.5;">Contribu=
 =C8=9Bia dumneavoastr=C4=83 ne apropie de bugetul necesar pentru deplasarea e=
 chipei la competi=C8=9Bie.</p>
-            </td></tr></table></td>
-            <td class=3D"col row" width=3D"33.33%" valign=3D"top" style=3D"wi=
-dth:33.33%;padding:8px 8px;"><table role=3D"presentation" width=3D"100%" cell=
-padding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td class=3D"line" style=3D"=
-border:1px solid #d8dde1;border-radius:10px;padding:20px 16px;font-family:Hel=
-vetica,Arial,sans-serif;">
-              <p style=3D"margin:0;color:#c3263d;font-size:10px;line-height:1=
-5px;font-weight:bold;letter-spacing:1px;">02 / EDUCA=C8=9AIE</p><h3 class=3D"=
-ink" style=3D"margin:10px 0 7px;color:#161b20;font-size:17px;line-height:1.25=
-;font-weight:bold;">Investi=C8=9Bi =C3=AEn experien=C8=9B=C4=83 practic=C4=83=
-</h3><p class=3D"muted" style=3D"margin:0;color:#58636e;font-size:13px;line-h=
-eight:1.5;">Studen=C8=9Bii aplic=C4=83 =C3=AEntr-un proiect real competen=C8=
-=9Be de inginerie, proiectare, testare =C8=99i colaborare.</p>
-            </td></tr></table></td>
-            <td class=3D"col row" width=3D"33.33%" valign=3D"top" style=3D"wi=
-dth:33.33%;padding:8px 24px 8px 8px;"><table role=3D"presentation" width=3D"1=
-00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td class=3D"line" =
-style=3D"border:1px solid #d8dde1;border-radius:10px;padding:20px 16px;font-f=
-amily:Helvetica,Arial,sans-serif;">
-              <p style=3D"margin:0;color:#c3263d;font-size:10px;line-height:1=
-5px;font-weight:bold;letter-spacing:1px;">03 / VIZIBILITATE</p><h3 class=3D"i=
-nk" style=3D"margin:10px 0 7px;color:#161b20;font-size:17px;line-height:1.25;=
-font-weight:bold;">Fi=C8=9Bi parte din poveste</h3><p class=3D"muted" style=
-=3D"margin:0;color:#58636e;font-size:13px;line-height:1.5;">Construim =C3=AEm=
-preun=C4=83 o prezen=C8=9B=C4=83 rom=C3=A2neasc=C4=83 =C3=AEntr-un proiect de=
- mobilitate solar=C4=83 cu anvergur=C4=83 interna=C8=9Bional=C4=83.</p>
-            </td></tr></table></td>
-          </tr></table>
+          </td></tr></table>
+          <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"margin-top:12px;"><tr><td class=3D"line" s=
+tyle=3D"border:1px solid #d8dde1;border-radius:10px;padding:20px 16px;">
+            <p style=3D"margin:0;color:#c3263d;font-size:10px;line-height:15p=
+x;font-weight:bold;letter-spacing:1px;">02 / EDUCA=C8=9AIE</p><h3 class=3D"in=
+k" style=3D"margin:10px 0 7px;color:#161b20;font-size:17px;line-height:1.25;f=
+ont-weight:bold;">Investi=C8=9Bi =C3=AEn experien=C8=9B=C4=83 practic=C4=83</=
+h3><p class=3D"muted" style=3D"margin:0;color:#58636e;font-size:13px;line-hei=
+ght:1.5;">Studen=C8=9Bii aplic=C4=83 =C3=AEntr-un proiect real competen=C8=9B=
+e de inginerie, proiectare, testare =C8=99i colaborare.</p>
+          </td></tr></table>
+          <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"margin-top:12px;"><tr><td class=3D"line" s=
+tyle=3D"border:1px solid #d8dde1;border-radius:10px;padding:20px 16px;">
+            <p style=3D"margin:0;color:#c3263d;font-size:10px;line-height:15p=
+x;font-weight:bold;letter-spacing:1px;">03 / VIZIBILITATE</p><h3 class=3D"ink=
+" style=3D"margin:10px 0 7px;color:#161b20;font-size:17px;line-height:1.25;fo=
+nt-weight:bold;">Fi=C8=9Bi parte din poveste</h3><p class=3D"muted" style=3D"=
+margin:0;color:#58636e;font-size:13px;line-height:1.5;">Construim =C3=AEmpreu=
+n=C4=83 o prezen=C8=9B=C4=83 rom=C3=A2neasc=C4=83 =C3=AEntr-un proiect de mob=
+ilitate solar=C4=83 cu anvergur=C4=83 interna=C8=9Bional=C4=83.</p>
+          </td></tr></table>
         </td></tr>
 
-        <!-- CLOSING MODULE: closing copy and actions -->
+        <!-- CLOSING MODULE: single-column rows for reliable mobile rendering=
+ -->
         <tr><td class=3D"container surface" width=3D"100%" bgcolor=3D"#ffffff=
-" style=3D"width:100%;background:#ffffff;padding:0 0 34px;">
+" style=3D"width:100%;background:#ffffff;padding:0 38px 34px;font-family:Helv=
+etica,Arial,sans-serif;">
           <table role=3D"presentation" class=3D"closing-box" width=3D"100%" c=
 ellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border:1px solid #d8=
-dde1;border-radius:12px;background:#ffffff;"><tr>
-            <td class=3D"col row" width=3D"68%" valign=3D"middle" style=3D"wi=
-dth:68%;padding:28px 14px 28px 28px;font-family:Helvetica,Arial,sans-serif;">
-              <p class=3D"light-accent" style=3D"margin:0 0 8px;color:#c3263d=
-;font-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-t=
-ransform:uppercase;">Urm=C4=83torul pas</p>
-              <h2 class=3D"ink" style=3D"margin:0;color:#161b20;font-size:28p=
-x;line-height:1.15;font-weight:bold;">Hai s=C4=83 ducem proiectul p=C3=A2n=C4=
+dde1;border-radius:12px;background:#ffffff;"><tr><td style=3D"padding:28px;">
+            <p class=3D"light-accent" style=3D"margin:0 0 8px;color:#c3263d;f=
+ont-size:12px;line-height:18px;font-weight:bold;letter-spacing:1.5px;text-tra=
+nsform:uppercase;">Urm=C4=83torul pas</p>
+            <h2 class=3D"ink" style=3D"margin:0;color:#161b20;font-size:28px;=
+line-height:1.15;font-weight:bold;">Hai s=C4=83 ducem proiectul p=C3=A2n=C4=
 =83 =C3=AEn Australia</h2>
-              <p class=3D"muted" style=3D"margin:11px 0 0;color:#58636e;font-=
-size:14px;line-height:1.6;">Scrie=C8=9Bi-ne pentru a discuta cum poate compan=
-ia dumneavoastr=C4=83 s=C4=83 sus=C8=9Bin=C4=83 deplasarea =C8=99i s=C4=83 de=
-vin=C4=83 partener=C4=83 TUCN Racing Team.</p>
-            </td>
-            <td class=3D"col row" width=3D"32%" valign=3D"middle" style=3D"wi=
-dth:32%;padding:28px 28px 28px 14px;font-family:Helvetica,Arial,sans-serif;">
-              <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" c=
-ellspacing=3D"0" border=3D"0"><tr><td bgcolor=3D"#f47d32" style=3D"border-rad=
-ius:5px;text-align:center;">
-                <a class=3D"mobile-button" href=3D"mailto:utcn.src@gmail.com?=
-subject=3DParteneriat%20Australia%20%7C%20TUCN%20Racing%20Team" style=3D"disp=
-lay:inline-block;padding:13px 12px;border:1px solid #f47d32;border-radius:5px=
-;color:#181b1f;font-size:14px;line-height:19px;font-weight:bold;text-decorati=
-on:none;">Discut=C4=83 un parteneriat</a>
-              </td></tr></table>
-              <p style=3D"margin:13px 0 0;font-size:13px;line-height:1.6;text=
--align:center;"><a href=3D"https://tucnracingteam.github.io/australia-sponsor=
-ship-request/Australia%20Sponsorship%20Request/Mapa%20Sponsorizare.pdf" style=
-=3D"color:#c3263d;font-weight:bold;text-decoration:underline;">Descarc=C4=83 =
-oferta PDF =E2=86=92</a><br><a href=3D"https://tucnracingteam.github.io/austr=
-alia-sponsorship-request/" style=3D"color:#c3263d;font-weight:bold;text-decor=
-ation:underline;">Pagina online</a></p>
-            </td>
-          </tr></table>
+            <p class=3D"muted" style=3D"margin:11px 0 0;color:#58636e;font-si=
+ze:14px;line-height:1.6;">Scrie=C8=9Bi-ne pentru a discuta cum poate compania=
+ dumneavoastr=C4=83 s=C4=83 sus=C8=9Bin=C4=83 deplasarea =C8=99i s=C4=83 devi=
+n=C4=83 partener=C4=83 TUCN Racing Team.</p>
+            <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" style=3D"margin-top:20px;"><tr><td bgcolor=3D"#f47d32" style=3D"=
+border-radius:5px;"><a href=3D"mailto:utcn.src@gmail.com?subject=3DParteneria=
+t%20Australia%20%7C%20TUCN%20Racing%20Team" style=3D"display:inline-block;pad=
+ding:13px 16px;border:1px solid #f47d32;border-radius:5px;color:#181b1f;font-=
+size:14px;line-height:19px;font-weight:bold;text-decoration:none;">Discut=C4=
+=83 un parteneriat</a></td></tr></table>
+            <p style=3D"margin:13px 0 0;font-size:13px;line-height:1.6;"><a h=
+ref=3D"https://tucnracingteam.github.io/australia-sponsorship-request/Austral=
+ia%20Sponsorship%20Request/Mapa%20Sponsorizare.pdf" style=3D"color:#c3263d;fo=
+nt-weight:bold;text-decoration:underline;">Descarc=C4=83 oferta PDF =E2=86=92=
+</a><br><a href=3D"https://tucnracingteam.github.io/australia-sponsorship-req=
+uest/" style=3D"color:#c3263d;font-weight:bold;text-decoration:underline;">Pa=
+gina online</a></p>
+          </td></tr></table>
         </td></tr>
 
         <!-- FOOTER MODULE -->
@@ -321,7 +292,7 @@ r:#ff9b5c;">Instagram</a>
 </body>
 </html>
 
---===============4623576145548633137==
+--===============3545349058435409744==
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="logo-tucn-rt.png"
@@ -2070,7 +2041,7 @@ WXPu3Ln9brf7iiz07gsEAkHFs9TZVr29vZ3Xrl37pqSkZMMTquFhBBBAAAEEEEAAAQQQQAABBOJK
 wBxXvaEzCMSQQFFRUXpmZmaGLPa+Y+vWre/JbZOiKI96kJCQYPJ6vaaKiooOi8VyUmZudcj5d+TB
 6RjqIk1FAAEEEEAAAQQQQAABBBBAQBOB/wAgzPoETCCwKgAAAABJRU5ErkJggg==
 
---===============4623576145548633137==
+--===============3545349058435409744==
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="iesc-2026-team.jpg"
@@ -13243,7 +13214,7 @@ cngVWU7cdT3roi4y1iY8jjozstHtHTVlluF3M33VzyM969kuLASwg7huK8L6CvA9C14TXXnyrux3
 J7mbZLzngD29a8/kge9uRHbLubn8Kca8aauwdCU2r7np+nePI9P08xbMO4IyTUf/AAsN/wDYrzLU
 9JubRFMgK8c96w/Kb/a/L/69KChNcyNJU3F2sf/Z
 
---===============4623576145548633137==
+--===============3545349058435409744==
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="iesc-2026-workshop.jpg"
@@ -18504,6 +18475,6 @@ SeD8yn2pWj0S9f6/yC72I9TjtoLdJszRRzpsma4j3qDuBGMHpnjjp+NYVvolo+i3Ot2tk88NhJkF
 AUXc3+wcPg+vIrdiu2vlgt7q98+BFJXgbdw5BOTzk4rk9b1LXhC0WnyCEE7CQOGUkfeA4yO3HIre
 Ka0v/X3GbP/Z
 
---===============4623576145548633137==--
+--===============3545349058435409744==--
 
---===============9223149872089169684==--
+--===============6974274069982344729==--
