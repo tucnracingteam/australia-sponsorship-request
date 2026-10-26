@@ -3,21 +3,21 @@ From: TUCN Racing Team <utcn.src@gmail.com>
 To: utcn.src@gmail.com
 MIME-Version: 1.0
 Content-Type: multipart/alternative;
- boundary="===============8669517551585146341=="
+ boundary="===============9223149872089169684=="
 
---===============8669517551585146341==
+--===============9223149872089169684==
 Content-Type: text/plain; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
 TUCN Racing Team =E2=80=94 versiunea HTML a mesajului este disponibil=C4=83 =
 =C3=AEn acest email.
 
---===============8669517551585146341==
+--===============9223149872089169684==
 MIME-Version: 1.0
 Content-Type: multipart/related;
- boundary="===============4903273633889280431=="
+ boundary="===============4623576145548633137=="
 
---===============4903273633889280431==
+--===============4623576145548633137==
 Content-Type: text/html; charset="utf-8"
 Content-Transfer-Encoding: quoted-printable
 
@@ -118,15 +118,15 @@ ont-size:12px;line-height:1.4;">Solar Racing Team</span>
           </tr></table>
         </td></tr>
 
-        <!-- HERO MODULE: text and team photo side by side on desktop, stacke=
-d on mobile -->
+        <!-- HERO MODULE: text followed by a full-width photo for reliable mo=
+bile rendering -->
         <tr><td class=3D"container" width=3D"100%" bgcolor=3D"#111b25" style=
 =3D"width:100%;background:#111b25;border-radius:18px;overflow:hidden;">
           <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
-pacing=3D"0" border=3D"0"><tr>
-            <td class=3D"col row" width=3D"50%" valign=3D"middle" style=3D"wi=
-dth:50%;padding:48px 18px 48px 44px;font-family:Helvetica,Arial,sans-serif;co=
-lor:#ffffff;">
+pacing=3D"0" border=3D"0">
+            <tr><td class=3D"row" width=3D"100%" valign=3D"middle" style=3D"w=
+idth:100%;padding:48px 44px 34px;font-family:Helvetica,Arial,sans-serif;color=
+:#ffffff;">
               <p style=3D"margin:0 0 16px;color:#ffc09a;font-size:12px;line-h=
 eight:18px;font-weight:bold;letter-spacing:2px;text-transform:uppercase;">TUC=
 N Racing Team =C2=B7 Rom=C3=A2nia</p>
@@ -155,15 +155,12 @@ style=3D"display:inline-block;padding:12px 16px;color:#ffffff;font-size:14px;=
 line-height:19px;font-weight:bold;text-decoration:none;">Vezi oferta de parte=
 neriat</a></td>
               </tr></table>
-            </td>
-            <td class=3D"col row" width=3D"50%" valign=3D"middle" style=3D"wi=
-dth:50%;padding:0 28px 0 18px;">
-              <img class=3D"img hero-img" src=3D"cid:iesc-2026-team" width=3D=
-"330" alt=3D"Echipa TUCN Racing Team =C8=99i vehicule solare la IESC 2026" st=
-yle=3D"display:block;width:330px;max-width:100%;height:auto;border-radius:12p=
-x;">
-            </td>
-          </tr></table>
+            </td></tr>
+            <tr><td width=3D"100%" style=3D"width:100%;padding:0 28px 28px;">=
+<img class=3D"img hero-img" src=3D"cid:iesc-2026-team" width=3D"704" alt=3D"E=
+chipa TUCN Racing Team =C8=99i vehicule solare la IESC 2026" style=3D"display=
+:block;width:100%;max-width:704px;height:auto;border-radius:12px;"></td></tr>
+          </table>
         </td></tr>
 
         <!-- ABOUT MODULE: copy and photo pair on desktop, stacked on mobile =
@@ -324,7 +321,7 @@ r:#ff9b5c;">Instagram</a>
 </body>
 </html>
 
---===============4903273633889280431==
+--===============4623576145548633137==
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="logo-tucn-rt.png"
@@ -2073,7 +2070,7 @@ WXPu3Ln9brf7iiz07gsEAkHFs9TZVr29vZ3Xrl37pqSkZMMTquFhBBBAAAEEEEAAAQQQQAABBOJK
 wBxXvaEzCMSQQFFRUXpmZmaGLPa+Y+vWre/JbZOiKI96kJCQYPJ6vaaKiooOi8VyUmZudcj5d+TB
 6RjqIk1FAAEEEEAAAQQQQAABBBBAQBOB/wAgzPoETCCwKgAAAABJRU5ErkJggg==
 
---===============4903273633889280431==
+--===============4623576145548633137==
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="iesc-2026-team.jpg"
@@ -13246,7 +13243,7 @@ cngVWU7cdT3roi4y1iY8jjozstHtHTVlluF3M33VzyM969kuLASwg7huK8L6CvA9C14TXXnyrux3
 J7mbZLzngD29a8/kge9uRHbLubn8Kca8aauwdCU2r7np+nePI9P08xbMO4IyTUf/AAsN/wDYrzLU
 9JubRFMgK8c96w/Kb/a/L/69KChNcyNJU3F2sf/Z
 
---===============4903273633889280431==
+--===============4623576145548633137==
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Disposition: attachment; filename="iesc-2026-workshop.jpg"
@@ -18507,6 +18504,6 @@ SeD8yn2pWj0S9f6/yC72I9TjtoLdJszRRzpsma4j3qDuBGMHpnjjp+NYVvolo+i3Ot2tk88NhJkF
 AUXc3+wcPg+vIrdiu2vlgt7q98+BFJXgbdw5BOTzk4rk9b1LXhC0WnyCEE7CQOGUkfeA4yO3HIre
 Ka0v/X3GbP/Z
 
---===============4903273633889280431==--
+--===============4623576145548633137==--
 
---===============8669517551585146341==--
+--===============9223149872089169684==--
